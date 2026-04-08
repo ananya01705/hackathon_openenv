@@ -1,0 +1,9 @@
+numpy
+matplotlib
+gradio
+huggingface_hub
+requests
+torch
+openai
+transformers
+Pillow
